@@ -1,0 +1,22 @@
+/*
+Theme Name: WP Bootstrap Blog
+Theme URI: 
+Description: A blog theme based on the Bootstrap Blog example
+Author: Kyle Godbey
+Author URI: http://teamtreehouse.com/
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Blog" found on the Bootstrap web site http://twitter.github.com/bootstrap/
+*/
+
+	/*Bootstrap core CSS*/
+	@import url('bootstrap/css/bootstrap.css');
+
+	/*Custom styles for this template*/
+	@import url('bootstrap/css/blog.css');
+	
+	
